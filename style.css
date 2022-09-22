@@ -1,0 +1,38 @@
+
+.button {
+   display: inline-block;
+   padding: 10px;
+   border-radius: 10px;
+   margin: 10px 0 0 150px;
+   height: 200px;
+   width: 150px;
+   text-align: center;
+}
+.btn__text {
+   padding: 5px; 
+}
+span {
+   display: block;
+}
+.hide {
+   display: none;
+}
+.btn__list {
+   border: 1px solid #000;
+   
+}
+.btn__link {
+}
+a {
+   background-color: #777;
+   display: block;
+   margin: 10px;
+   text-decoration: none;
+   border: 1px solid #000;
+   padding: 10px;
+   color: white;
+}
+
+.brightness {
+   opacity: 0.5;
+}
